@@ -2,7 +2,7 @@ menu "Example Configuration"
 
     config WIFI_SSID
         string "WiFi SSID"
-        default "myssid"
+        default "myssid1"
         help
             SSID (network name) for the example to connect to.
 
